@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151225615272",
+    "project_id": "main-ecom-mart",
+    "storage_bucket": "main-ecom-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151225615272:android:1433aad7c29e433d5f939d",
+        "android_client_info": {
+          "package_name": "com.example.sih_v3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3CAX241HlEhBKfDxPF1KPJVKWKpD44GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
